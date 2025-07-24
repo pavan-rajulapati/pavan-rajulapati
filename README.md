@@ -1,8 +1,12 @@
 # 👋 Hi there! I'm Pavan Rajulapati
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-rajulapati) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajulapatipavankr@gmail.com)
+
+### Glad to see you here!   
+
 I'm a passionate **Full-Stack Developer** with a focus on **MERN Stack** and **React applications**. I thrive on tackling real-world problems and constantly experimenting with new technologies to push the limits of modern web development.
 
----
 
 ## 💬 Talking about Personal Stuffs:
 
@@ -20,13 +24,6 @@ I'm a passionate **Full-Stack Developer** with a focus on **MERN Stack** and **R
     }
     ```
 
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-rajulapati) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajulapatipavankr@gmail.com)
-
----
 
 ## 🧠 Tech Stack
 **Languages & Frameworks** &nbsp; &nbsp;
@@ -48,7 +45,6 @@ I'm a passionate **Full-Stack Developer** with a focus on **MERN Stack** and **R
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) &nbsp;
 ![Context API](https://img.shields.io/badge/Context--API-000000.svg?style=flat&logo=react)
 
----
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -60,21 +56,12 @@ I'm a passionate **Full-Stack Developer** with a focus on **MERN Stack** and **R
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarRajulapati&layout=compact&theme=github_dark&hide_border=false" width="48%" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PavanKumarRajulapati&theme=radical&no-bg=true&no-frame=false&margin-w=10" />
 </p>
 
----
-
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
 
 ## 📍 Visitor Count
 <p align="center">
