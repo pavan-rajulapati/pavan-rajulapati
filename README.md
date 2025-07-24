@@ -37,8 +37,11 @@ I thrive on building robust, scalable applications and love solving real-world p
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
 **Frontend & Styling** &nbsp; &nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) &nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context--API-000000.svg?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000.svg?style=flat&logo=vercel&logoColor=white)
+
 
 
 ## 📈 GitHub Stats
