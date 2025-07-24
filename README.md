@@ -1,5 +1,6 @@
 ### 👋 Hi there! I'm Pavan Rajulapati
 
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](pavan-rajulapati.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-rajulapati)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajulapatipavankr@gmail.com)
 
@@ -17,13 +18,6 @@ I thrive on building robust, scalable applications and love solving real-world p
 - 👯 Looking to collaborate on MERN/Next.js projects & AI-integrated apps  
 - 🤝 Looking for help scaling AI-driven systems  
 - 💬 Ask me about full-stack, performance, and product architecture  
-- ⚡ Fun fact:
-
-```js
-while (sleeping) {
-  brain === "coding";
-}
-```
 
 
 ## 🧠 Tech Stack
