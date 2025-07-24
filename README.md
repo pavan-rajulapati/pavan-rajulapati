@@ -3,14 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-rajulapati)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajulapatipavankr@gmail.com)
 
----
 
 ### 👨‍💻 Glad to see you here!
 
 I'm a passionate **Full-Stack Developer** focused on the **MERN Stack**, **Next.js**, and **AI-powered solutions**.  
 I thrive on building robust, scalable applications and love solving real-world problems with clean, performant code.
 
----
 
 ## 💬 Talking About Personal Stuffs:
 
@@ -63,10 +61,4 @@ while (sleeping) {
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavan-rajulapati&theme=radical&no-bg=true&no-frame=false&margin-w=10" />
-</p>
-
-
-## 📍 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pavan-rajulapati&icon=0&color=0" />
 </p>
