@@ -48,13 +48,11 @@ while (sleeping) {
 
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-rajulapati&theme=github_dark&show_icons=true&hide_border=false" alt="Pavan's GitHub stats" width="48%"/>
-</p>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan-rajulapati&theme=github_dark&show_icons=true&hide_border=false" alt="Pavan's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-rajulapati&layout=compact&theme=github_dark&hide_border=false" width="48%" />
-</p>
+</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
