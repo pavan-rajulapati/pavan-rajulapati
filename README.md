@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Pavan Rajulapati
+### 👋 Hi there! I'm Pavan Rajulapati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-rajulapati)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajulapatipavankr@gmail.com)
@@ -53,9 +53,6 @@ while (sleeping) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-rajulapati&theme=github-dark&hide_border=false" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-rajulapati&layout=compact&theme=github_dark&hide_border=false" width="48%" />
-</p>
 
 
 ## 🏆 GitHub Trophies
