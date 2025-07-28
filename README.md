@@ -50,8 +50,3 @@ I thrive on building robust, scalable applications and love solving real-world p
   <img src="https://github-readme-stats.vercel.app/api?username=pavan-rajulapati&theme=github_dark&show_icons=true&hide_border=false" alt="Pavan's GitHub stats" width="48%" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-rajulapati&layout=compact&theme=github_dark&hide_border=false" width="48%" style="height: 200px;" />
 </div>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavan-rajulapati&theme=radical&no-bg=true&no-frame=false&margin-w=10" />
-</p>
